@@ -5,7 +5,7 @@ plt.style.use('seaborn')
 
 st.title('World Cities')
 
-df =pd.read_csv(r'D:\Desktop\misy225\exercises\worldcities.csv')
+df =pd.read_csv(r'worldcities.csv')
 
 
 #add a slider
